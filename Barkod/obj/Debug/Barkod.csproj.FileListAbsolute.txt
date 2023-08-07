@@ -1,0 +1,17 @@
+C:\Users\batuh\source\repos\Barkod\Barkod\bin\Debug\Barkod.exe.config
+C:\Users\batuh\source\repos\Barkod\Barkod\bin\Debug\Barkod.exe
+C:\Users\batuh\source\repos\Barkod\Barkod\bin\Debug\Barkod.pdb
+C:\Users\batuh\source\repos\Barkod\Barkod\bin\Debug\Zen.Barcode.Core.dll
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.csproj.AssemblyReference.cache
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.csproj.SuggestedBindingRedirects.cache
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.Form1.resources
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.Properties.Resources.resources
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.csproj.GenerateResource.cache
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.csproj.CoreCompileInputs.cache
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.csproj.CopyComplete
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.exe
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.pdb
+C:\Users\batuh\source\repos\Barkod\Barkod\bin\Debug\Barkod.exe.manifest
+C:\Users\batuh\source\repos\Barkod\Barkod\bin\Debug\Barkod.application
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.exe.manifest
+C:\Users\batuh\source\repos\Barkod\Barkod\obj\Debug\Barkod.application
